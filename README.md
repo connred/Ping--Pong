@@ -1,5 +1,4 @@
 # Ping-Pong
-# pray for paris
 ping1
 pong1
 ping2
